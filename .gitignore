@@ -1,7 +1,7 @@
 # Logs
 logs
 *.log
-
+ghost-dev.db
 # Runtime data
 pids
 *.pid
