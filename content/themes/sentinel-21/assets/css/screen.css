@@ -901,7 +901,7 @@ body:not(.post-template) .post-title {
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */
 .post-content .full-img {
-    width: 126%;
+    width: 100%;
     max-width: none;
     /*margin: 0 -13%; commented for captioning*/
 }
@@ -916,6 +916,7 @@ figure.image {
 
 figure img {
   border: 1px solid #ccc;
+  padding: 0;
 }
 
 figcaption {
