@@ -906,7 +906,7 @@ body:not(.post-template) .post-title {
     margin: 0 -13%;
 }
 
-figure .image {
+figure.image {
     background: #F8F8F8;
     width: 120%;
     padding: 3% 3% 1% 3%;
